@@ -1,0 +1,41 @@
+[0.671s] Invoking command in '/home/admin/my_service1': PYTHONPATH=/home/admin/my_service1/build/my_service1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/my_service1/install/my_service1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/my_service1 build --build-base /home/admin/my_service1/build/my_service1/build install --record /home/admin/my_service1/build/my_service1/install.log --single-version-externally-managed install_data
+[0.916s] running egg_info
+[0.921s] creating build/my_service1/my_service1.egg-info
+[0.924s] writing build/my_service1/my_service1.egg-info/PKG-INFO
+[0.924s] writing dependency_links to build/my_service1/my_service1.egg-info/dependency_links.txt
+[0.924s] writing entry points to build/my_service1/my_service1.egg-info/entry_points.txt
+[0.924s] writing requirements to build/my_service1/my_service1.egg-info/requires.txt
+[0.924s] writing top-level names to build/my_service1/my_service1.egg-info/top_level.txt
+[0.924s] writing manifest file 'build/my_service1/my_service1.egg-info/SOURCES.txt'
+[0.931s] reading manifest file 'build/my_service1/my_service1.egg-info/SOURCES.txt'
+[0.931s] writing manifest file 'build/my_service1/my_service1.egg-info/SOURCES.txt'
+[0.931s] running build
+[0.931s] running build_py
+[0.931s] creating /home/admin/my_service1/build/my_service1/build
+[0.931s] creating /home/admin/my_service1/build/my_service1/build/lib
+[0.931s] creating /home/admin/my_service1/build/my_service1/build/lib/my_service1
+[0.931s] copying my_service1/service_server.py -> /home/admin/my_service1/build/my_service1/build/lib/my_service1
+[0.932s] copying my_service1/__init__.py -> /home/admin/my_service1/build/my_service1/build/lib/my_service1
+[0.932s] copying my_service1/service_client.py -> /home/admin/my_service1/build/my_service1/build/lib/my_service1
+[0.934s] running install
+[0.934s] running install_lib
+[0.937s] creating /home/admin/my_service1/install/my_service1/lib/python3.10/site-packages/my_service1
+[0.938s] copying /home/admin/my_service1/build/my_service1/build/lib/my_service1/service_server.py -> /home/admin/my_service1/install/my_service1/lib/python3.10/site-packages/my_service1
+[0.939s] copying /home/admin/my_service1/build/my_service1/build/lib/my_service1/__init__.py -> /home/admin/my_service1/install/my_service1/lib/python3.10/site-packages/my_service1
+[0.939s] copying /home/admin/my_service1/build/my_service1/build/lib/my_service1/service_client.py -> /home/admin/my_service1/install/my_service1/lib/python3.10/site-packages/my_service1
+[0.943s] byte-compiling /home/admin/my_service1/install/my_service1/lib/python3.10/site-packages/my_service1/service_server.py to service_server.cpython-310.pyc
+[0.944s] byte-compiling /home/admin/my_service1/install/my_service1/lib/python3.10/site-packages/my_service1/__init__.py to __init__.cpython-310.pyc
+[0.945s] byte-compiling /home/admin/my_service1/install/my_service1/lib/python3.10/site-packages/my_service1/service_client.py to service_client.cpython-310.pyc
+[0.947s] running install_data
+[0.948s] creating /home/admin/my_service1/install/my_service1/share/ament_index
+[0.948s] creating /home/admin/my_service1/install/my_service1/share/ament_index/resource_index
+[0.948s] creating /home/admin/my_service1/install/my_service1/share/ament_index/resource_index/packages
+[0.948s] copying resource/my_service1 -> /home/admin/my_service1/install/my_service1/share/ament_index/resource_index/packages
+[0.948s] copying package.xml -> /home/admin/my_service1/install/my_service1/share/my_service1
+[0.948s] running install_egg_info
+[0.951s] Copying build/my_service1/my_service1.egg-info to /home/admin/my_service1/install/my_service1/lib/python3.10/site-packages/my_service1-0.0.0-py3.10.egg-info
+[0.954s] running install_scripts
+[0.981s] Installing service_client script to /home/admin/my_service1/install/my_service1/lib/my_service1
+[0.981s] Installing service_server script to /home/admin/my_service1/install/my_service1/lib/my_service1
+[0.982s] writing list of installed files to '/home/admin/my_service1/build/my_service1/install.log'
+[1.020s] Invoked command in '/home/admin/my_service1' returned '0': PYTHONPATH=/home/admin/my_service1/build/my_service1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/my_service1/install/my_service1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/my_service1 build --build-base /home/admin/my_service1/build/my_service1/build install --record /home/admin/my_service1/build/my_service1/install.log --single-version-externally-managed install_data

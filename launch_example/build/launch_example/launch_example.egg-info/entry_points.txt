@@ -1,0 +1,4 @@
+[console_scripts]
+listener = launch_example.listener:main
+talker = launch_example.talker:main
+

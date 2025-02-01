@@ -1,0 +1,18 @@
+[0.828s] Invoking command in '/home/admin/temperature_publisher/build/temperature_publisher': PYTHONPATH=/home/admin/temperature_publisher/build/temperature_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/temperature_publisher/install/temperature_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/admin/temperature_publisher/build/temperature_publisher/build --no-deps
+[1.170s] running develop
+[1.383s] running egg_info
+[1.384s] creating temperature_publisher.egg-info
+[1.384s] writing temperature_publisher.egg-info/PKG-INFO
+[1.385s] writing dependency_links to temperature_publisher.egg-info/dependency_links.txt
+[1.386s] writing entry points to temperature_publisher.egg-info/entry_points.txt
+[1.386s] writing requirements to temperature_publisher.egg-info/requires.txt
+[1.386s] writing top-level names to temperature_publisher.egg-info/top_level.txt
+[1.386s] writing manifest file 'temperature_publisher.egg-info/SOURCES.txt'
+[1.389s] reading manifest file 'temperature_publisher.egg-info/SOURCES.txt'
+[1.389s] writing manifest file 'temperature_publisher.egg-info/SOURCES.txt'
+[1.390s] running build_ext
+[1.390s] Creating /home/admin/temperature_publisher/install/temperature_publisher/lib/python3.10/site-packages/temperature-publisher.egg-link (link to .)
+[1.393s] Installing temp_publisher script to /home/admin/temperature_publisher/install/temperature_publisher/lib/temperature_publisher
+[1.393s] 
+[1.393s] Installed /home/admin/temperature_publisher/build/temperature_publisher
+[1.443s] Invoked command in '/home/admin/temperature_publisher/build/temperature_publisher' returned '0': PYTHONPATH=/home/admin/temperature_publisher/build/temperature_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/temperature_publisher/install/temperature_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/admin/temperature_publisher/build/temperature_publisher/build --no-deps

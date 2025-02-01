@@ -1,0 +1,14 @@
+running develop
+running egg_info
+writing temperature_publisher.egg-info/PKG-INFO
+writing dependency_links to temperature_publisher.egg-info/dependency_links.txt
+writing entry points to temperature_publisher.egg-info/entry_points.txt
+writing requirements to temperature_publisher.egg-info/requires.txt
+writing top-level names to temperature_publisher.egg-info/top_level.txt
+reading manifest file 'temperature_publisher.egg-info/SOURCES.txt'
+writing manifest file 'temperature_publisher.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/admin/temperature_publisher/install/temperature_publisher/lib/python3.10/site-packages/temperature-publisher.egg-link (link to .)
+Installing temp_publisher script to /home/admin/temperature_publisher/install/temperature_publisher/lib/temperature_publisher
+
+Installed /home/admin/temperature_publisher/build/temperature_publisher

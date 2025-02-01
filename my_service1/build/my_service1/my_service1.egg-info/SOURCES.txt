@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+build/my_service1/my_service1.egg-info/PKG-INFO
+build/my_service1/my_service1.egg-info/SOURCES.txt
+build/my_service1/my_service1.egg-info/dependency_links.txt
+build/my_service1/my_service1.egg-info/entry_points.txt
+build/my_service1/my_service1.egg-info/requires.txt
+build/my_service1/my_service1.egg-info/top_level.txt
+build/my_service1/my_service1.egg-info/zip-safe
+my_service1/__init__.py
+my_service1/service_client.py
+my_service1/service_server.py
+resource/my_service1
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

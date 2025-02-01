@@ -1,0 +1,3 @@
+[console_scripts]
+temp_publisher = temperature_publisher.temp_publisher:main
+

@@ -1,0 +1,16 @@
+running develop
+running egg_info
+creating image_processor.egg-info
+writing image_processor.egg-info/PKG-INFO
+writing dependency_links to image_processor.egg-info/dependency_links.txt
+writing entry points to image_processor.egg-info/entry_points.txt
+writing requirements to image_processor.egg-info/requires.txt
+writing top-level names to image_processor.egg-info/top_level.txt
+writing manifest file 'image_processor.egg-info/SOURCES.txt'
+reading manifest file 'image_processor.egg-info/SOURCES.txt'
+writing manifest file 'image_processor.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/admin/image_processor/install/image_processor/lib/python3.10/site-packages/image-processor.egg-link (link to .)
+Installing image_listener script to /home/admin/image_processor/install/image_processor/lib/image_processor
+
+Installed /home/admin/image_processor/build/image_processor

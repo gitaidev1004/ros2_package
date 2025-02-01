@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+temperature_publisher/__init__.py
+temperature_publisher/temp_publisher.py
+temperature_publisher/temperature_listener.py
+temperature_publisher.egg-info/PKG-INFO
+temperature_publisher.egg-info/SOURCES.txt
+temperature_publisher.egg-info/dependency_links.txt
+temperature_publisher.egg-info/entry_points.txt
+temperature_publisher.egg-info/requires.txt
+temperature_publisher.egg-info/top_level.txt
+temperature_publisher.egg-info/zip-safe

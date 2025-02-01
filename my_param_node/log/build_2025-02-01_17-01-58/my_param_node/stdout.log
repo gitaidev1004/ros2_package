@@ -1,0 +1,16 @@
+running develop
+running egg_info
+creating my_param_node.egg-info
+writing my_param_node.egg-info/PKG-INFO
+writing dependency_links to my_param_node.egg-info/dependency_links.txt
+writing entry points to my_param_node.egg-info/entry_points.txt
+writing requirements to my_param_node.egg-info/requires.txt
+writing top-level names to my_param_node.egg-info/top_level.txt
+writing manifest file 'my_param_node.egg-info/SOURCES.txt'
+reading manifest file 'my_param_node.egg-info/SOURCES.txt'
+writing manifest file 'my_param_node.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/admin/my_param_node/install/my_param_node/lib/python3.10/site-packages/my-param-node.egg-link (link to .)
+Installing param_node script to /home/admin/my_param_node/install/my_param_node/lib/my_param_node
+
+Installed /home/admin/my_param_node/build/my_param_node

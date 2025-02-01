@@ -1,0 +1,4 @@
+[console_scripts]
+publisher = my_pub1.publisher:main
+subscriber = my_pub1.subscriber:main
+

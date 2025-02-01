@@ -1,0 +1,3 @@
+[console_scripts]
+tf2_broadcaster_listener = tf2_example.tf2_broadcaster_listener:main
+

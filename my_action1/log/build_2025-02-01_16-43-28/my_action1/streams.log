@@ -1,0 +1,25 @@
+[0.693s] Invoking command in '/home/admin/my_action1/build/my_action1': PYTHONPATH=/home/admin/my_action1/build/my_action1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/my_action1/install/my_action1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/admin/my_action1/build/my_action1/build --no-deps symlink_data
+[0.981s] running develop
+[1.173s] running egg_info
+[1.173s] creating my_action1.egg-info
+[1.173s] writing my_action1.egg-info/PKG-INFO
+[1.174s] writing dependency_links to my_action1.egg-info/dependency_links.txt
+[1.174s] writing entry points to my_action1.egg-info/entry_points.txt
+[1.175s] writing requirements to my_action1.egg-info/requires.txt
+[1.175s] writing top-level names to my_action1.egg-info/top_level.txt
+[1.175s] writing manifest file 'my_action1.egg-info/SOURCES.txt'
+[1.176s] reading manifest file 'my_action1.egg-info/SOURCES.txt'
+[1.177s] writing manifest file 'my_action1.egg-info/SOURCES.txt'
+[1.181s] running build_ext
+[1.181s] Creating /home/admin/my_action1/install/my_action1/lib/python3.10/site-packages/my-action1.egg-link (link to .)
+[1.181s] Installing action_client script to /home/admin/my_action1/install/my_action1/lib/my_action1
+[1.181s] Installing action_server script to /home/admin/my_action1/install/my_action1/lib/my_action1
+[1.181s] 
+[1.181s] Installed /home/admin/my_action1/build/my_action1
+[1.181s] running symlink_data
+[1.181s] creating /home/admin/my_action1/install/my_action1/share/ament_index
+[1.181s] creating /home/admin/my_action1/install/my_action1/share/ament_index/resource_index
+[1.181s] creating /home/admin/my_action1/install/my_action1/share/ament_index/resource_index/packages
+[1.181s] symbolically linking /home/admin/my_action1/build/my_action1/resource/my_action1 -> /home/admin/my_action1/install/my_action1/share/ament_index/resource_index/packages
+[1.181s] symbolically linking /home/admin/my_action1/build/my_action1/package.xml -> /home/admin/my_action1/install/my_action1/share/my_action1
+[1.224s] Invoked command in '/home/admin/my_action1/build/my_action1' returned '0': PYTHONPATH=/home/admin/my_action1/build/my_action1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/my_action1/install/my_action1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/admin/my_action1/build/my_action1/build --no-deps symlink_data

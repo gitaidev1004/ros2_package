@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>tf2_example</name>
+  <version>0.0.0</version>
+  <description>TF2 Broadcasting and Listening Example</description>
+
+  <maintainer email="admin@todo.todo">admin</maintainer>
+  <license>Apache-2.0</license>
+
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>tf2_ros</depend>
+  <depend>tf2_geometry_msgs</depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+action/__init__.py
+my_action1/__init__.py
+my_action1/action_client.py
+my_action1/action_server.py
+my_action1.egg-info/PKG-INFO
+my_action1.egg-info/SOURCES.txt
+my_action1.egg-info/dependency_links.txt
+my_action1.egg-info/entry_points.txt
+my_action1.egg-info/requires.txt
+my_action1.egg-info/top_level.txt
+my_action1.egg-info/zip-safe
+resource/my_action1

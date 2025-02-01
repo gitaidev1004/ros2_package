@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>launch_example</name>
+  <version>0.0.0</version>
+  <description>ROS 2 Launch Example</description>
+
+  <maintainer email="admin@todo.todo">admin</maintainer>
+  <license>Apache-2.0</license>
+
+  <depend>rclpy</depend>
+  <depend>example_interfaces</depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

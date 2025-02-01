@@ -1,0 +1,3 @@
+[console_scripts]
+image_listener = image_processor.image_listener:main
+

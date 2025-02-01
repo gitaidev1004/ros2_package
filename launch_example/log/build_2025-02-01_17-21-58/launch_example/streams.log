@@ -1,0 +1,17 @@
+[0.679s] Invoking command in '/home/admin/launch_example/build/launch_example': PYTHONPATH=/home/admin/launch_example/build/launch_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/launch_example/install/launch_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/admin/launch_example/build/launch_example/build --no-deps
+[1.094s] running develop
+[1.094s] running egg_info
+[1.095s] writing launch_example.egg-info/PKG-INFO
+[1.100s] writing dependency_links to launch_example.egg-info/dependency_links.txt
+[1.100s] writing entry points to launch_example.egg-info/entry_points.txt
+[1.101s] writing requirements to launch_example.egg-info/requires.txt
+[1.101s] writing top-level names to launch_example.egg-info/top_level.txt
+[1.109s] reading manifest file 'launch_example.egg-info/SOURCES.txt'
+[1.109s] writing manifest file 'launch_example.egg-info/SOURCES.txt'
+[1.110s] running build_ext
+[1.110s] Creating /home/admin/launch_example/install/launch_example/lib/python3.10/site-packages/launch-example.egg-link (link to .)
+[1.112s] Installing listener script to /home/admin/launch_example/install/launch_example/lib/launch_example
+[1.112s] Installing talker script to /home/admin/launch_example/install/launch_example/lib/launch_example
+[1.114s] 
+[1.114s] Installed /home/admin/launch_example/build/launch_example
+[1.164s] Invoked command in '/home/admin/launch_example/build/launch_example' returned '0': PYTHONPATH=/home/admin/launch_example/build/launch_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/launch_example/install/launch_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/admin/launch_example/build/launch_example/build --no-deps

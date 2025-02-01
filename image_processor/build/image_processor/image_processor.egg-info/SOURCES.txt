@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+image_processor/__init__.py
+image_processor/image_listener.py
+image_processor.egg-info/PKG-INFO
+image_processor.egg-info/SOURCES.txt
+image_processor.egg-info/dependency_links.txt
+image_processor.egg-info/entry_points.txt
+image_processor.egg-info/requires.txt
+image_processor.egg-info/top_level.txt
+image_processor.egg-info/zip-safe

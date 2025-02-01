@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating my_action1.egg-info
+writing my_action1.egg-info/PKG-INFO
+writing dependency_links to my_action1.egg-info/dependency_links.txt
+writing entry points to my_action1.egg-info/entry_points.txt
+writing requirements to my_action1.egg-info/requires.txt
+writing top-level names to my_action1.egg-info/top_level.txt
+writing manifest file 'my_action1.egg-info/SOURCES.txt'
+reading manifest file 'my_action1.egg-info/SOURCES.txt'
+writing manifest file 'my_action1.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/admin/my_action1/install/my_action1/lib/python3.10/site-packages/my-action1.egg-link (link to .)
+Installing action_client script to /home/admin/my_action1/install/my_action1/lib/my_action1
+Installing action_server script to /home/admin/my_action1/install/my_action1/lib/my_action1
+
+Installed /home/admin/my_action1/build/my_action1
+running symlink_data
+creating /home/admin/my_action1/install/my_action1/share/ament_index
+creating /home/admin/my_action1/install/my_action1/share/ament_index/resource_index
+creating /home/admin/my_action1/install/my_action1/share/ament_index/resource_index/packages
+symbolically linking /home/admin/my_action1/build/my_action1/resource/my_action1 -> /home/admin/my_action1/install/my_action1/share/ament_index/resource_index/packages
+symbolically linking /home/admin/my_action1/build/my_action1/package.xml -> /home/admin/my_action1/install/my_action1/share/my_action1

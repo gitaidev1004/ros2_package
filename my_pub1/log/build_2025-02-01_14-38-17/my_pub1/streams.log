@@ -1,0 +1,22 @@
+[0.730s] Invoking command in '/home/admin/my_pub1': PYTHONPATH=/home/admin/my_pub1/build/my_pub1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/my_pub1/install/my_pub1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/my_pub1 build --build-base /home/admin/my_pub1/build/my_pub1/build install --record /home/admin/my_pub1/build/my_pub1/install.log --single-version-externally-managed install_data
+[1.013s] running egg_info
+[1.016s] writing build/my_pub1/my_pub1.egg-info/PKG-INFO
+[1.017s] writing dependency_links to build/my_pub1/my_pub1.egg-info/dependency_links.txt
+[1.018s] writing entry points to build/my_pub1/my_pub1.egg-info/entry_points.txt
+[1.018s] writing requirements to build/my_pub1/my_pub1.egg-info/requires.txt
+[1.019s] writing top-level names to build/my_pub1/my_pub1.egg-info/top_level.txt
+[1.022s] reading manifest file 'build/my_pub1/my_pub1.egg-info/SOURCES.txt'
+[1.022s] writing manifest file 'build/my_pub1/my_pub1.egg-info/SOURCES.txt'
+[1.022s] running build
+[1.023s] running build_py
+[1.024s] running install
+[1.024s] running install_lib
+[1.026s] running install_data
+[1.026s] running install_egg_info
+[1.028s] removing '/home/admin/my_pub1/install/my_pub1/lib/python3.10/site-packages/my_pub1-0.0.0-py3.10.egg-info' (and everything under it)
+[1.029s] Copying build/my_pub1/my_pub1.egg-info to /home/admin/my_pub1/install/my_pub1/lib/python3.10/site-packages/my_pub1-0.0.0-py3.10.egg-info
+[1.031s] running install_scripts
+[1.052s] Installing publisher script to /home/admin/my_pub1/install/my_pub1/lib/my_pub1
+[1.053s] Installing subscriber script to /home/admin/my_pub1/install/my_pub1/lib/my_pub1
+[1.053s] writing list of installed files to '/home/admin/my_pub1/build/my_pub1/install.log'
+[1.079s] Invoked command in '/home/admin/my_pub1' returned '0': PYTHONPATH=/home/admin/my_pub1/build/my_pub1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/my_pub1/install/my_pub1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/my_pub1 build --build-base /home/admin/my_pub1/build/my_pub1/build install --record /home/admin/my_pub1/build/my_pub1/install.log --single-version-externally-managed install_data
